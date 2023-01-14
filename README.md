@@ -2,7 +2,7 @@
 > If you have any questions in using the program, please feel free to contact us by email: meihonggao@mail.nwpu.edu.cn.
 
 ## Requirements
-MVG-LGA is tested in the conda environment. It is recommended that users test the program in this way. Of course, they can also execute the program in a familiar environment. Note: Before using GAE-LGA, users first need to prepare the following softwares in the execution environment：
+MVG-LGA is tested in the conda environment. It is recommended that users test the program in this way. Of course, they can also execute the program in a familiar environment. Note: Before using MVG-LGA, users first need to prepare the following softwares in the execution environment：
   * Python 3.6.2
   * PyTrorch 1.9.1
   * NumPy 1.19.2
@@ -20,7 +20,7 @@ This directory stores the python code of the model
   >It is used to define the functions that need to be used in the model.
 
 ## Usage
-Here, we provide the usage of GAE-LGA on three datasets. Note: Go to the /GAE-LGA/Code/ directory before using this model.
+Here, we provide the usage of MVG-LGA on three datasets. Note: Go to the /MVG-LGA/Code/ directory before using this model.
 ### Usage on NPInter dataset
   * Please run the following python command：```python main_cpu.py```
   
