@@ -21,8 +21,7 @@ This directory stores the python code of the model
   >It is used to define the functions that need to be used in the model.
 
 ## Usage
-Here, we provide the usage of MVG-LGA on three datasets. Note: Go to the /MVG-LGA/Code/ directory before using this model.
-### Usage on NPInter dataset
+Note: Go to the /MVG-LGA/Code/ directory before using this model.
   * Please run the following python command：```python main_cpu.py```
   
 ## Datasets
