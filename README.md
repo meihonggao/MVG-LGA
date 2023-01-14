@@ -6,6 +6,7 @@ MVG-LGA is tested in the conda environment. It is recommended that users test th
   * Python 3.6.2
   * PyTrorch 1.9.1
   * NumPy 1.19.2
+  * Scipy 1.5.2
   * scikit-learn 0.24.1
 
 ## Code
